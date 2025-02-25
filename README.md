@@ -11,6 +11,7 @@
 7. [Sample Queries & Responses](#sample-queries--responses)
 8. [AI System Prompt](#ai-system-prompt)
 9. [Conclusion](#conclusion)
+10. [SignalWire Dashboard](#SignalWire Dashboard Settings)
 
 ---
 
@@ -176,16 +177,19 @@ Ready to launch? Fire up the bot and let the snark begin!
 
 https://admin:password@test.ngrok-free.app/swaig
 
-![image](https://github.com/user-attachments/assets/8422421b-8be9-4d87-bfc4-430459ecc920)
+![image](https://github.com/user-attachments/assets/88de4b11-c08f-460b-b53d-bf22a611be75)
 
 
 
 
-![image](https://github.com/user-attachments/assets/7ce173c9-dbf6-4fb9-8328-5fb9c1d2d93e)
+
+![image](https://github.com/user-attachments/assets/5a73fa7c-1f02-4c46-be47-a0972681a3f7)
 
 
 
-![image](https://github.com/user-attachments/assets/f9e5db71-dc24-46ad-97cf-170a47864b0c)
+
+![image](https://github.com/user-attachments/assets/2bd1233d-3fd1-4bff-a96a-a9652d330578)
+
 
 
 
