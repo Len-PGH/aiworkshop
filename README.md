@@ -153,3 +153,40 @@ Greet the user with a and ask for the city they want the weather for.git "*
 The AI Weather Agent not only keeps you informed but also entertained. Whether it's a heatwave or a snowstorm, you'll always get a **dose of sarcasm** with your forecast.
 
 Ready to launch? Fire up the bot and let the snark begin!
+
+
+## SignalWire Dashboard Settings
+
+![image](https://github.com/user-attachments/assets/b5dd5804-207a-42b0-a22c-f4575bd3a225)
+
+
+
+
+![image](https://github.com/user-attachments/assets/07eea87d-b2fc-4a92-8c7a-dfb97c462eaa)
+
+
+
+![image](https://github.com/user-attachments/assets/a0dc60a6-a871-402c-8ec7-07da15e8113e)
+
+
+![image](https://github.com/user-attachments/assets/a5ee97ff-3d06-4c10-86a7-ba6c6422d99b)
+
+![image](https://github.com/user-attachments/assets/041c2e7c-3187-4c6d-adf4-4e87c1f1f3af)
+
+
+https://admin:password@test.ngrok-free.app/swaig
+
+![image](https://github.com/user-attachments/assets/8422421b-8be9-4d87-bfc4-430459ecc920)
+
+
+
+
+![image](https://github.com/user-attachments/assets/7ce173c9-dbf6-4fb9-8328-5fb9c1d2d93e)
+
+
+
+![image](https://github.com/user-attachments/assets/f9e5db71-dc24-46ad-97cf-170a47864b0c)
+
+
+
+
