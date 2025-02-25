@@ -11,7 +11,7 @@
 7. [Sample Queries & Responses](#sample-queries--responses)
 8. [AI System Prompt](#ai-system-prompt)
 9. [Conclusion](#conclusion)
-10. [SignalWire Dashboard](#SignalWire Dashboard Settings)
+10. [SignalWire Dashboard](#SignalWire-Dashboard-Settings)
 
 ---
 
