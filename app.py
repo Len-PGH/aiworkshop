@@ -4,6 +4,7 @@ from signalwire_swaig.core import SWAIG, SWAIGArgument
 import os
 import requests
 from dotenv import load_dotenv
+from pyngrok import ngrok
 
 load_dotenv(override=True)
 
@@ -49,4 +50,15 @@ def get_weather(city, state=None, country=None, meta_data_token=None, meta_data=
     return f"Oh great, {city} doesn't exist... or maybe you just can't spell? Try again!", {}
 
 if __name__ == '__main__':
-    app.run(host='0.0.0.0', port=os.getenv('PORT', 5000), debug=os.getenv('DEBUG', False))
+    # Set the port
+    port = os.getenv('PORT', 5000)
+    
+    # Start ngrok tunnel
+    public_url = ngrok.connect(port).public_url
+    print(f" * ngrok tunnel \"{public_url}\" -> \"http://127.0.0.1:{port}\"")
+    
+    # Update any base URLs that might need the public URL
+    app.config['SERVER_NAME'] = public_url.replace("https://", "").replace("http://", "")
+    
+    # Run the Flask app
+    app.run(host='0.0.0.0', port=port, debug=os.getenv('DEBUG', False))
